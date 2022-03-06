@@ -1,0 +1,22 @@
+{
+	"bookstore": {
+		"book": [
+			{
+				"title": "Web Programming",
+				"author": "Chrisbates",
+				"ISBN": "123-456-789",
+				"publisher": "Wiley",
+				"edition": "3",
+				"price": "350"
+			},
+			{
+				"title": "Internet World Wide Web",
+				"author": "Ditel&Ditel",
+				"ISBN": "123-456-781",
+				"publisher": "Paul",
+				"edition": "3",
+				"price": "450"
+			}
+		]
+	}
+}

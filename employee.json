@@ -1,0 +1,15 @@
+{
+	"Company": {
+		"Employee": {
+			"FirstName": "Krishnanunni",
+			"LastName": "V",
+			"ContactNo": "9747071488",
+			"Email": "krishnanunniv@gmail.com",
+			"Address": {
+				"City": "Bangalore",
+				"State": "Karnataka",
+				"Zip": "560212"
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"VTU": {
+		"STUDENT": [
+			{
+				"USN": "1GD11CS001",
+				"NAME": "Arun Kumar",
+				"COLLEGE": "College of Engineering",
+				"BRANCH": "Computer Science and Engineering",
+				"YEAR": "2011",
+				"EMAILID": "arunk@gmail.com"
+			},
+			{
+				"USN": "1GD10ME012",
+				"NAME": "Swaroop J",
+				"COLLEGE": "College of Engineering",
+				"BRANCH": "Mechanical Engineering",
+				"YEAR": "2010",
+				"EMAILID": "swaroopj@gmail.com"
+			}
+		]
+	}
+}
